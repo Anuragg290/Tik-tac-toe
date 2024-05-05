@@ -15,6 +15,4 @@ Alternatively, you can play the game directly in your browser by visiting https:
 
 Contributions to improve the game are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
 
-# License
 
-This project is licensed under the MIT License.
