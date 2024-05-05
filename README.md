@@ -5,7 +5,7 @@ This implementation provides a digital version of the game playable in a web bro
 
 # Installation
 
-To install and run the game locally, follow these steps:
+To install and run the game locally, follow these steps :
 Clone or download this repository to your local machine.
 Navigate to the directory containing the game files.
 Open the index.html file in a web browser.
